@@ -63,7 +63,7 @@ O modelo utilizado é relativamente simples e pode ser aprimorado com técnicas 
 
 **Bibliotecas:** 
 
-caTools, h2o, caret, scikit-learn
+caTools, h2o e caret
 
 **Autor:** 
 
